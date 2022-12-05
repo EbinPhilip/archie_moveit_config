@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: archie_description
+    relative_path: urdf/archie.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/archie.srdf
+  CONFIG:
+    author_name: Ebin Philip
+    author_email: stargazer18@gmail.com
+    generated_timestamp: 1670266531
